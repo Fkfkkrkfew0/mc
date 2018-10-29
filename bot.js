@@ -21,7 +21,7 @@ client.on("ready", () => {
       game: { 
          type: 0,
          name: '!spam  ',
-         details: `I'm : ♛ 『DE』 NovritschPro#6808`,
+         details: ♛ 『DE』 NovritschPro#6808`,
          url: 'http://twitch.tv/Streammingg',
          state: `تريد اعملك بوت سبام راسلني خاص`,
         application_id: '281376075802476544',
@@ -29,7 +29,7 @@ client.on("ready", () => {
             small_image: `366835431037337600`,
             small_text: ' Take This ! ' ,
             large_image: `370451271133429760`,
-            large_text: `♛ 『DE』 NovritschPro#6808 }
+            large_text: ` }
     
       }
         });
